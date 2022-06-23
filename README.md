@@ -5,5 +5,9 @@ Tech Stack : Python , FastAPI, React.js, Tailwindcss
 
 ## Demo Video
 
-https://user-images.githubusercontent.com/57366926/175205577-543e63b0-7b35-4122-a415-8e7702138cac.mp4
+
+
+
+
+https://user-images.githubusercontent.com/57366926/175223929-9fc2973c-24f8-41ae-99ee-a29fcb28c577.mp4
 
